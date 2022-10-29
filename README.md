@@ -11,7 +11,7 @@
 </p>
 
 
-### :fire: Languages & FrameWork :
+### ::mushroom: :anchor:Languages & FrameWork :
 
 <p align="left">
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
