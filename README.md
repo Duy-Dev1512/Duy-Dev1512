@@ -23,8 +23,11 @@
    <h3 align="left">Tools & IDE</h3>
 
 <p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="PyCharm" **alt="PyCharm" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" title="IntelliJ" **alt="IntelliJ" width="40" height="40"/>
+<a href = "https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/></a>
+
+<a href = "https://www.jetbrains.com/pycharm/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="PyCharm" **alt="PyCharm" width="40" height="40"/> </a>
+
+<a href ="https://www.jetbrains.com/idea/"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" title="IntelliJ" **alt="IntelliJ" width="40" height="40"/></a>
+
 
 </p>
