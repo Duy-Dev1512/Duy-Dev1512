@@ -30,12 +30,11 @@
 <a href="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" title="IntelliJ" **alt="IntelliJ" width="40" height="40"/></a>
 
 </p>
-<!-- (https://git.io/streak-stats) -->
+
 ---
 
 ### :fire: My Stats :
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Duy-Dev1512&theme=algolia&date_format=j%20M%5B%20Y%5D)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Duy-Dev1512&theme=algolia&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duy-Dev1512&layout=compact)]
-<!-- (https://github.com/Duy-Dev1512/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duy-Dev1512&layout=compact)](https://github.com/Duy-Dev1512)
 
