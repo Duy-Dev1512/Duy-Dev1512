@@ -32,5 +32,5 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Duy-Dev1512&theme=algolia&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
