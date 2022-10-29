@@ -23,7 +23,6 @@
 
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
-<img src="https://commons.wikimedia.org/wiki/File:PyCharm_Icon.svg" title="PyCharm" **alt="PyCharm" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="PyCharm" **alt="PyCharm" width="40" height="40"/>
 
 <p>
-https://commons.wikimedia.org/wiki/File:PyCharm_Icon.svg
