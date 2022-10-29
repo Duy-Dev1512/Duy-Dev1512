@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="https://imgur.com/OOpRj" width="400" height="300"/>
+  <img src="https://i.imgur.com/OOpRj.gif" width="400" height="300"/>
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
