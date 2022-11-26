@@ -34,7 +34,7 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Duy-Dev1512&theme=algolia&date_format=j%20M%5B%20Y%5D)](https://github.com/Duy-Dev1512)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Duy-Dev1512&theme=algolia&date_format=j%20M%5B%20Y%5D)](https://github.com/DuyNoob02)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duy-Dev1512&layout=compact)](https://github.com/Duy-Dev1512)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duy-Dev1512&layout=compact)](https://github.com/DuyNoob02)
 
