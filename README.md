@@ -11,36 +11,6 @@
 </p>
 
 
-### :fire::anchor: Languages & FrameWork
-
-<p align="left">
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="40" height="40"/> </a>
-  
-  <a target="_blank" rel="noreferrer">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
-  </a>
-  
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="c" width="40" height="40"/> </a>
-
-  <a href="" target="_blank" rel="noreferrer"> 
-      <img src="=https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-  </a>
-    
-   <a href="https://nuxt.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="c" width="40" height="40"/> </a>
-   
-  <a href="" target="_blank" rel="noreferrer"> <img src="<a href="https://nuxt.com/" target="_blank" rel="noreferrer"> 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="c" width="40" height="40"/> 
-   </a>
-   
-   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-   
-   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="c" width="40" height="40"/> </a>
-    
-
-   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/></a>
-   
-   </p>
 
 ### :wrench: :hammer:  Tools & IDE 
 
